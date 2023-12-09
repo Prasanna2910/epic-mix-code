@@ -6,7 +6,8 @@ audio,
 #despacitoAudio {
   color: white;
   height: 10vh;
-  margin-left: 6px;
+  width: 100%;
+  margin-bottom: 3px;
   /* border: 1px solid white; */
 }
 p {
